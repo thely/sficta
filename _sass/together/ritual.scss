@@ -1,0 +1,32 @@
+.ex-gif {
+	height: 200px;
+	margin-bottom: 2em;
+}
+
+.ex-gif {
+	background-blend-mode: hard-light;
+	background-color: var(--color1);
+	background-position: center;
+	grid-column: 1 / span 3;
+
+	&.a {
+		background-image: url(https://media.giphy.com/media/l41lPnM5LWvUdB6qQ/giphy.gif);
+		// margin-top: 1em;
+	}
+	&.b {
+		background-image: url(https://media.giphy.com/media/l2YWpJB3n7DL097Z6/giphy.gif);
+	}
+}
+
+.ex-svg {
+	grid-column: 4 / -1;
+	margin-top: 1.5em;
+}
+
+.ex-gif.a {
+	margin-top: 1em;
+}
+
+.ex-svg.a {
+	margin-top: 2.5em;
+}
