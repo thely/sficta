@@ -7,7 +7,7 @@ instrumentation: viol quartet
 written_for: Science Ficta
 ---
 
-## 3. Ritual, 2'
+## 3. Ritual
 
 <div class="main-text" markdown="1">
 Silence, 5", then:
