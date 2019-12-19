@@ -16,7 +16,7 @@ Others roles not listed are also possible; only _Driver_ is required.
 </div>
 
 <div class="roles-block" markdown="1">
-* Driver: Lead pitch changes based off the pitch set given. Give at least 10" between changes.
+* Driver: Lead pitch changes based off the pitch set given. Give at least 10s between changes.
 * Dissident: Fluctuate your shared pitch enough to cause beating, when possible. Intersperse this with mostly-correct pitch.
 * Dreamer: Take your time arriving to new pitches. No one needs to change pitch immediately, but you can be _especially_ slow.
 * Disciple: You exist for another. Their actions are more perfect than yours. Be more like them.

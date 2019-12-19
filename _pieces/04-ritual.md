@@ -17,11 +17,11 @@ Two players start separate but complimentary repeated \~2" rituals, in which eve
 
 <div class="ex-gif a"><h2>this is a placeholder gif</h2></div>
 <div class="ex-svg a">
-	<object type="image/svg+xml" data="assets/svg/ritual-1.svg"></object>
+	<object type="image/svg+xml" data="assets/svg/ritual-1a.svg"></object>
 </div>
 <div class="ex-gif b"><h2>this is a placeholder gif</h2></div>
 <div class="ex-svg b">
-	<object type="image/svg+xml" data="assets/svg/ritual-2.svg"></object>
+	<object type="image/svg+xml" data="assets/svg/ritual-2a.svg"></object>
 </div>
 
 <div class="main-text" markdown="1">
