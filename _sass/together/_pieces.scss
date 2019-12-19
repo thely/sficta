@@ -1,0 +1,39 @@
+:root {
+	--max-width: 1000px;
+	--color1: #e8896b;
+	--color2: #dd59f0;
+}
+
+* {
+	font-family: "DM Sans", sans-serif;
+}
+
+.section-wrap {
+	margin: 4em 0;
+
+	.wrapper {
+		max-width: calc(var(--max-width) - (30px * 2));
+	}
+
+	.inner {
+		display: grid;
+		grid-template-columns: repeat(8, 1fr);
+		grid-column-gap: 4em;
+
+		h2 {
+			color: var(--color1);
+			grid-column: 1 / span 8;
+		}
+		.main-text {
+			grid-column: 1 / span 4;
+		}
+		.roles-block {
+			grid-column: 5 / span 3;
+		}
+	}
+}
+
+@import
+	"preamble",
+	"breaking"
+;

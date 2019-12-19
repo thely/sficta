@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <main class="page-content" aria-label="Content">
+      {% for piece in site.pieces %}
+        <section class="section-wrap page-{{ piece.slug | slugify }}">
+          <div class="wrapper">
+            <div class="{{ piece.slug | slugify}} inner">
+              <!-- <h1>{{ piece.title }}</h1> -->
+              {{ piece.content }}
+            </div>
+          </div>
+        </section>
+      {% endfor %}
+      {%- include footer.html -%}
+    </main>
+  </body>
+
+</html>

@@ -1,0 +1,40 @@
+.stop-block {
+	grid-column: 4 / span 3;
+	margin: 4em 0;
+
+	em {
+		color: var(--color2);
+		float: left;
+		font-size: 1.5em;
+		font-weight: bold;
+		margin: 0 1em 0em 0;
+		position: relative;
+
+		&::after {
+			box-shadow: 0px 0px 38px -8px rgba(132, 21, 68, 0.44);
+			content: "";
+			display: block;
+			width: 9.3em;
+			height: 6.3em;
+			position: absolute;
+			top: -0.8em; left: -2em;
+			transform: rotate(45deg);
+		}
+	}
+
+	p:nth-of-type(2) {
+		margin-top: 3em;
+		text-align: right;
+	}
+}
+
+.continue-block {
+	grid-column: 2 / span 4;
+	margin-bottom: 1em;
+	text-align: center;
+
+	// span {
+	// 	display: block;
+	// 	text-align: right;
+	// }
+}
