@@ -1,6 +1,9 @@
+
+
 .stop-block {
-	grid-column: 4 / span 3;
-	margin: 4em 0;
+	grid-column: 7 / span 4;
+	margin: 2em 0;
+	// margin-top: 0;
 
 	em {
 		color: var(--color2);
@@ -11,7 +14,7 @@
 		position: relative;
 
 		&::after {
-			box-shadow: 0px 0px 38px -8px rgba(132, 21, 68, 0.44);
+			// box-shadow: 0px 0px 38px -8px rgba(132, 21, 68, 0.44);
 			content: "";
 			display: block;
 			width: 9.3em;
@@ -29,12 +32,17 @@
 }
 
 .continue-block {
-	grid-column: 2 / span 4;
+	grid-column: 8 / span 5;
 	margin-bottom: 1em;
-	text-align: center;
+	text-align: right;
 
 	// span {
 	// 	display: block;
 	// 	text-align: right;
 	// }
 }
+
+.section-wrap .inner .main-text.narrative {
+	grid-column: 1 / span 9;
+}
+

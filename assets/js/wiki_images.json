@@ -1,0 +1,314 @@
+{
+  "ar00": {
+    "link": "https://en.wikipedia.org/wiki/The_Fool_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/90/RWS_Tarot_00_Fool.jpg/137px-RWS_Tarot_00_Fool.jpg"
+  },
+  "ar01": {
+    "link": "https://en.wikipedia.org/wiki/The_Magician_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/de/RWS_Tarot_01_Magician.jpg/136px-RWS_Tarot_01_Magician.jpg"
+  },
+  "ar02": {
+    "link": "https://en.wikipedia.org/wiki/The_High_Priestess_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/138px-RWS_Tarot_02_High_Priestess.jpg"
+  },
+  "ar03": {
+    "link": "https://en.wikipedia.org/wiki/The_Empress_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/RWS_Tarot_03_Empress.jpg/139px-RWS_Tarot_03_Empress.jpg"
+  },
+  "ar04": {
+    "link": "https://en.wikipedia.org/wiki/The_Emperor_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/140px-RWS_Tarot_04_Emperor.jpg"
+  },
+  "ar05": {
+    "link": "https://en.wikipedia.org/wiki/The_Hierophant_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/RWS_Tarot_05_Hierophant.jpg/137px-RWS_Tarot_05_Hierophant.jpg"
+  },
+  "ar06": {
+    "link": "https://en.wikipedia.org/wiki/The_Lovers_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/db/RWS_Tarot_06_Lovers.jpg/139px-RWS_Tarot_06_Lovers.jpg"
+  },
+  "ar07": {
+    "link": "https://en.wikipedia.org/wiki/The_Chariot_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RWS_Tarot_07_Chariot.jpg/136px-RWS_Tarot_07_Chariot.jpg"
+  },
+  "ar08": {
+    "link": "https://en.wikipedia.org/wiki/Strength_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RWS_Tarot_08_Strength.jpg/133px-RWS_Tarot_08_Strength.jpg"
+  },
+  "ar09": {
+    "link": "https://en.wikipedia.org/wiki/The_Hermit_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/139px-RWS_Tarot_09_Hermit.jpg"
+  },
+  "ar10": {
+    "link": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg/139px-RWS_Tarot_10_Wheel_of_Fortune.jpg"
+  },
+  "ar11": {
+    "link": "https://en.wikipedia.org/wiki/Justice_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e0/RWS_Tarot_11_Justice.jpg/138px-RWS_Tarot_11_Justice.jpg"
+  },
+  "ar12": {
+    "link": "https://en.wikipedia.org/wiki/The_Hanged_Man_(tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/2/2b/RWS_Tarot_12_Hanged_Man.jpg/136px-RWS_Tarot_12_Hanged_Man.jpg"
+  },
+  "ar13": {
+    "link": "https://en.wikipedia.org/wiki/Death_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RWS_Tarot_13_Death.jpg/136px-RWS_Tarot_13_Death.jpg"
+  },
+  "ar14": {
+    "link": "https://en.wikipedia.org/wiki/Temperance_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f8/RWS_Tarot_14_Temperance.jpg/138px-RWS_Tarot_14_Temperance.jpg"
+  },
+  "ar15": {
+    "link": "https://en.wikipedia.org/wiki/The_Devil_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/5/55/RWS_Tarot_15_Devil.jpg/137px-RWS_Tarot_15_Devil.jpg"
+  },
+  "ar16": {
+    "link": "https://en.wikipedia.org/wiki/The_Tower_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/5/53/RWS_Tarot_16_Tower.jpg/140px-RWS_Tarot_16_Tower.jpg"
+  },
+  "ar17": {
+    "link": "https://en.wikipedia.org/wiki/The_Star_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/db/RWS_Tarot_17_Star.jpg/139px-RWS_Tarot_17_Star.jpg"
+  },
+  "ar18": {
+    "link": "https://en.wikipedia.org/wiki/The_Moon_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/7/7f/RWS_Tarot_18_Moon.jpg/136px-RWS_Tarot_18_Moon.jpg"
+  },
+  "ar19": {
+    "link": "https://en.wikipedia.org/wiki/The_Sun_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/17/RWS_Tarot_19_Sun.jpg/139px-RWS_Tarot_19_Sun.jpg"
+  },
+  "ar20": {
+    "link": "https://en.wikipedia.org/wiki/Judgement_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/dd/RWS_Tarot_20_Judgement.jpg/139px-RWS_Tarot_20_Judgement.jpg"
+  },
+  "ar21": {
+    "link": "https://en.wikipedia.org/wiki/The_World_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RWS_Tarot_21_World.jpg/137px-RWS_Tarot_21_World.jpg"
+  },
+  "waac": {
+    "link": "https://en.wikipedia.org/wiki/Ace_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/11/Wands01.jpg/137px-Wands01.jpg"
+  },
+  "wa02": {
+    "link": "https://en.wikipedia.org/wiki/Two_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Wands02.jpg/138px-Wands02.jpg"
+  },
+  "wa03": {
+    "link": "https://en.wikipedia.org/wiki/Three_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Wands03.jpg/136px-Wands03.jpg"
+  },
+  "wa04": {
+    "link": "https://en.wikipedia.org/wiki/Four_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wands04.jpg/136px-Wands04.jpg"
+  },
+  "wa05": {
+    "link": "https://en.wikipedia.org/wiki/Five_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Wands05.jpg/137px-Wands05.jpg"
+  },
+  "wa06": {
+    "link": "https://en.wikipedia.org/wiki/Six_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Wands06.jpg/138px-Wands06.jpg"
+  },
+  "wa07": {
+    "link": "https://en.wikipedia.org/wiki/Seven_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Wands07.jpg/136px-Wands07.jpg"
+  },
+  "wa08": {
+    "link": "https://en.wikipedia.org/wiki/Eight_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Wands08.jpg/136px-Wands08.jpg"
+  },
+  "wa09": {
+    "link": "https://en.wikipedia.org/wiki/Nine_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Wands09.jpg/138px-Wands09.jpg"
+  },
+  "wa10": {
+    "link": "https://en.wikipedia.org/wiki/Ten_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Wands10.jpg/139px-Wands10.jpg"
+  },
+  "wapa": {
+    "link": "https://en.wikipedia.org/wiki/Page_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Wands11.jpg/136px-Wands11.jpg"
+  },
+  "wakn": {
+    "link": "https://en.wikipedia.org/wiki/Knight_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/16/Wands12.jpg/136px-Wands12.jpg"
+  },
+  "waqu": {
+    "link": "https://en.wikipedia.org/wiki/Queen_of_Wands_(Tarot_card)",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Wands13.jpg/137px-Wands13.jpg"
+  },
+  "waki": {
+    "link": "https://en.wikipedia.org/wiki/King_of_Wands",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Wands14.jpg/135px-Wands14.jpg"
+  },
+  "peac": {
+    "link": "https://en.wikipedia.org/wiki/Ace_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Pents01.jpg/137px-Pents01.jpg"
+  },
+  "pe02": {
+    "link": "https://en.wikipedia.org/wiki/Two_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Pents02.jpg/138px-Pents02.jpg"
+  },
+  "pe03": {
+    "link": "https://en.wikipedia.org/wiki/Three_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/4/42/Pents03.jpg/137px-Pents03.jpg"
+  },
+  "pe04": {
+    "link": "https://en.wikipedia.org/wiki/Four_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/35/Pents04.jpg/136px-Pents04.jpg"
+  },
+  "pe05": {
+    "link": "https://en.wikipedia.org/wiki/Five_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/96/Pents05.jpg/137px-Pents05.jpg"
+  },
+  "pe06": {
+    "link": "https://en.wikipedia.org/wiki/Six_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pents06.jpg/138px-Pents06.jpg"
+  },
+  "pe07": {
+    "link": "https://en.wikipedia.org/wiki/Seven_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Pents07.jpg/136px-Pents07.jpg"
+  },
+  "pe08": {
+    "link": "https://en.wikipedia.org/wiki/Eight_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Pents08.jpg/137px-Pents08.jpg"
+  },
+  "pe09": {
+    "link": "https://en.wikipedia.org/wiki/Nine_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Pents09.jpg/137px-Pents09.jpg"
+  },
+  "pe10": {
+    "link": "https://en.wikipedia.org/wiki/Ten_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/4/42/Pents10.jpg/139px-Pents10.jpg"
+  },
+  "pepa": {
+    "link": "https://en.wikipedia.org/wiki/Page_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Pents11.jpg/137px-Pents11.jpg"
+  },
+  "pekn": {
+    "link": "https://en.wikipedia.org/wiki/Knight_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Pents12.jpg/136px-Pents12.jpg"
+  },
+  "pequ": {
+    "link": "https://en.wikipedia.org/wiki/Queen_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/8/88/Pents13.jpg/136px-Pents13.jpg"
+  },
+  "peki": {
+    "link": "https://en.wikipedia.org/wiki/King_of_Coins",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Pents14.jpg/138px-Pents14.jpg"
+  },
+  "cuac": {
+    "link": "https://en.wikipedia.org/wiki/Ace_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/36/Cups01.jpg/134px-Cups01.jpg"
+  },
+  "cu02": {
+    "link": "https://en.wikipedia.org/wiki/Two_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Cups02.jpg/135px-Cups02.jpg"
+  },
+  "cu03": {
+    "link": "https://en.wikipedia.org/wiki/Three_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Cups03.jpg/136px-Cups03.jpg"
+  },
+  "cu04": {
+    "link": "https://en.wikipedia.org/wiki/Four_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/35/Cups04.jpg/137px-Cups04.jpg"
+  },
+  "cu05": {
+    "link": "https://en.wikipedia.org/wiki/Five_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Cups05.jpg/134px-Cups05.jpg"
+  },
+  "cu06": {
+    "link": "https://en.wikipedia.org/wiki/Six_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/17/Cups06.jpg/135px-Cups06.jpg"
+  },
+  "cu07": {
+    "link": "https://en.wikipedia.org/wiki/Seven_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Cups07.jpg/137px-Cups07.jpg"
+  },
+  "cu08": {
+    "link": "https://en.wikipedia.org/wiki/Eight_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/6/60/Cups08.jpg/137px-Cups08.jpg"
+  },
+  "cu09": {
+    "link": "https://en.wikipedia.org/wiki/Nine_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/2/24/Cups09.jpg/136px-Cups09.jpg"
+  },
+  "cu10": {
+    "link": "https://en.wikipedia.org/wiki/Ten_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/8/84/Cups10.jpg/136px-Cups10.jpg"
+  },
+  "cupa": {
+    "link": "https://en.wikipedia.org/wiki/Page_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Cups11.jpg/134px-Cups11.jpg"
+  },
+  "cukn": {
+    "link": "https://en.wikipedia.org/wiki/Knight_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Cups12.jpg/139px-Cups12.jpg"
+  },
+  "cuqu": {
+    "link": "https://en.wikipedia.org/wiki/Queen_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/6/62/Cups13.jpg/139px-Cups13.jpg"
+  },
+  "cuki": {
+    "link": "https://en.wikipedia.org/wiki/King_of_Cups",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/0/04/Cups14.jpg/136px-Cups14.jpg"
+  },
+  "swac": {
+    "link": "https://en.wikipedia.org/wiki/Ace_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Swords01.jpg/137px-Swords01.jpg"
+  },
+  "sw02": {
+    "link": "https://en.wikipedia.org/wiki/Two_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Swords02.jpg/138px-Swords02.jpg"
+  },
+  "sw03": {
+    "link": "https://en.wikipedia.org/wiki/Three_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Swords03.jpg/135px-Swords03.jpg"
+  },
+  "sw04": {
+    "link": "https://en.wikipedia.org/wiki/Four_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Swords04.jpg/135px-Swords04.jpg"
+  },
+  "sw05": {
+    "link": "https://en.wikipedia.org/wiki/Five_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/2/23/Swords05.jpg/136px-Swords05.jpg"
+  },
+  "sw06": {
+    "link": "https://en.wikipedia.org/wiki/Six_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/2/29/Swords06.jpg/139px-Swords06.jpg"
+  },
+  "sw07": {
+    "link": "https://en.wikipedia.org/wiki/Seven_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/34/Swords07.jpg/138px-Swords07.jpg"
+  },
+  "sw08": {
+    "link": "https://en.wikipedia.org/wiki/Eight_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Swords08.jpg/139px-Swords08.jpg"
+  },
+  "sw09": {
+    "link": "https://en.wikipedia.org/wiki/Nine_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Swords09.jpg/138px-Swords09.jpg"
+  },
+  "sw10": {
+    "link": "https://en.wikipedia.org/wiki/Ten_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Swords10.jpg/139px-Swords10.jpg"
+  },
+  "swpa": {
+    "link": "https://en.wikipedia.org/wiki/Page_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Swords11.jpg/137px-Swords11.jpg"
+  },
+  "swkn": {
+    "link": "https://en.wikipedia.org/wiki/Knight_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Swords12.jpg/137px-Swords12.jpg"
+  },
+  "swqu": {
+    "link": "https://en.wikipedia.org/wiki/Queen_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Swords13.jpg/134px-Swords13.jpg"
+  },
+  "swki": {
+    "link": "https://en.wikipedia.org/wiki/King_of_Swords",
+    "img": "http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Swords14.jpg/137px-Swords14.jpg"
+  }
+}

@@ -1,0 +1,47 @@
+:root {
+	--div-width: 0.2fr;
+}
+
+.score-large {
+	// background-color: #eee;
+	display: grid;
+	grid-template-columns: [inst] 1fr [left-border] var(--div-width) [body] repeat(8, 1fr) [right-border] var(--div-width);
+	grid-template-rows: [timeline] auto [inst1] auto [inst2] auto;
+	grid-column: 1 / -1;
+	grid-column-gap: 1em;
+
+	.divider {
+		border-left: 2px solid var(--color1);
+		border-right: 2px solid var(--color1);
+		grid-row-start: inst1;
+		height: 100%;
+		width: 100%;
+	}
+
+	.divider-left { grid-column: left-border; }
+	.divider-right { grid-column: right-border; }
+
+
+	.instrument {
+		grid-column: inst;
+		&:nth-of-type(1) { grid-row: inst1; }
+		&:nth-of-type(2) { grid-row: inst2; }
+
+	}
+
+	.time {
+		grid-row: timeline;
+
+		&:nth-of-type(3) { grid-column: 3; }
+		&:nth-of-type(4) { grid-column: 6; }
+		&:nth-of-type(5) { grid-column: 8; }
+	}
+
+	.direction {
+		grid-column: body / right-border;
+		grid-row: inst1 / -1;
+
+		&.inst1 { grid-row: inst1; }
+		&.inst2 { grid-row: inst2; }
+	}
+}

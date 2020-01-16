@@ -7,7 +7,7 @@
 	background-blend-mode: hard-light;
 	background-color: var(--color1);
 	background-position: center;
-	grid-column: 1 / span 3;
+	grid-column: 1 / span 2;
 
 	&.a {
 		background-image: url(https://media.giphy.com/media/l41lPnM5LWvUdB6qQ/giphy.gif);
@@ -19,7 +19,7 @@
 }
 
 .ex-svg {
-	grid-column: 4 / -1;
+	grid-column: 4 / 11;
 	margin-top: 1.5em;
 }
 
@@ -28,5 +28,5 @@
 }
 
 .ex-svg.a {
-	margin-top: 2.5em;
+	margin-top: 1em;
 }

@@ -3,8 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link href="https://fonts.googleapis.com/css?family=DM+Sans:400,400i&display=swap" rel="stylesheet"> 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link href="https://fonts.googleapis.com/css?family=DM+Sans:400,400i|Gelasio:700|DM+Serif+Display:400i|Roboto&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <script src="{{ '/assets/js/p5.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/tarot.js' | relative_url }}"></script>
+  <script data-search-pseudo-elements src="https://kit.fontawesome.com/9a80036d0d.js" crossorigin="anonymous"></script>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
