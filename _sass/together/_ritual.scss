@@ -7,20 +7,26 @@
 	background-blend-mode: hard-light;
 	background-color: var(--color1);
 	background-position: center;
-	grid-column: 1 / span 2;
+	grid-column: 1 / span 3;
 
 	&.a {
-		background-image: url(https://media.giphy.com/media/l41lPnM5LWvUdB6qQ/giphy.gif);
+		// background-image: url(https://media.giphy.com/media/l41lPnM5LWvUdB6qQ/giphy.gif);
+		background-image: url(https://media.giphy.com/media/QtwSqRQzixnXXTFeqA/giphy.gif);
+		background-position: 100%;
 		// margin-top: 1em;
 	}
 	&.b {
-		background-image: url(https://media.giphy.com/media/l2YWpJB3n7DL097Z6/giphy.gif);
+		// background-image: url(https://media.giphy.com/media/l2YWpJB3n7DL097Z6/giphy.gif);
+		background-blend-mode: multiply;
+		background-image: url(https://media.giphy.com/media/jlqJieWthmFZSpsHhe/giphy.gif);
+		background-size: cover;
+		background-position: 35%;
 	}
 }
 
 .ex-svg {
 	grid-column: 4 / 11;
-	margin-top: 1.5em;
+	// margin-top: 1.5em;
 }
 
 .ex-gif.a {
@@ -30,3 +36,25 @@
 .ex-svg.a {
 	margin-top: 1em;
 }
+
+.ex-svg h3 {
+	font-family: var(--narrative-font);
+	font-size: 1.3em;
+}
+
+.break-svg {
+	grid-column: 9 / span 4;
+}
+
+.caption {
+	font-family: var(--roles-font);
+	font-size: 0.75em;
+}
+
+.together-svg {
+	grid-column: 1 / span 12;
+	margin: 2em 0;
+	margin-top: 1em;
+
+}
+

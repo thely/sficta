@@ -24,6 +24,15 @@ You can damage your pattern with one of the following strategies.
 * If you start to feel bored of your pattern, you can **defer** your responsibility to the piece for awhile. Play an entirely new pattern based off of one or more of the melodic fragments listed below; once created, it behaves like any other pattern. Listen to your new idea until you've forgotten it wasn't old.
 * If, while playing, you **remember** where you are and what you're doing, freeze completely; the only thing that should move is your eyes. Hold your breath. Focus on your neighbor, on the floor, anything but your instrument. Listen to what you hear until you've forgotten.
 
+</div>
+
+<div class="break-svg">
+	<object type="image/svg+xml" data="assets/svg/cells_1a.svg"></object>
+	<p class="caption">melodic fragments for "defer"</p>
+</div>
+
+<div class="main-text" markdown="1">
+
 If you were using one of the above strategies but have managed to **forget** why you were doing it, return to your original pattern. Or at least what you think it might have been, what it should have been.
 
 </div>

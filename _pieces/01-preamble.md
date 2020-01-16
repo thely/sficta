@@ -25,11 +25,7 @@ The Ace of Swords shows a single hand bursting forth from the clouds, holding a 
 
 *The Ten of Swords* starts with each performer picking a role that represents some strategy for withstanding loss or trial. Your role will influence when/how/what you play, and how you move. Other roles not listed are also possible; only _Driver_ is required.
 
-In some sections, no specific instructions will be given for specific parts–it is up to each performer to determine what makes the most sense for his/her role. In other sections, per-role instructions are provided, but do not necessarily need to be obeyed (except for the _Driver_) if you find something better. 
-
-Take care not to overexaggerate.
-
-
+In some sections, no specific instructions will be given for specific parts–it is up to each performer to determine what makes the most sense for his/her role. In other sections, per-role instructions are provided, but do not necessarily need to be obeyed (except for the _Driver_) if you find something better. [Take care not to overexaggerate.](https://www.youtube.com/watch?v=RrutzRWXkKs)
 </div>
 
 <div class="roles-block" markdown="1">
@@ -37,6 +33,19 @@ Take care not to overexaggerate.
 * Dissident: The world should be different, and you know it. You can feel it, endlessly, prickling beneath your skin. You wish everyone knew it. There must be a way.
 * Dreamer: The future will come eventually, and you will be there for it. Perhaps there is something you can do, perhaps not. Only the present exists.
 * Disciple: You exist for another. Their actions are more perfect than yours. Be more like them, or at least who you think they need you to be.
+</div>
+
+<div class="main-text" markdown="1">
+
+### definitions
+
+Each section has a piece of narrative, some definitions, and how that section should progress. A collapsed version with progressions (i.e., a normal score) can be found here.
+
+Words that are **highlighted** are common vocabulary for the piece, and are likely to show up more than once.
+
+<span class="time">0'12"</span>
+Time markers are there to establish approximate durations of sections, but these times are not strict. The piece should not go beyond 10', but time markers inside of that are flexible.
+
 </div>
 
 <!--

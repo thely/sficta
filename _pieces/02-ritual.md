@@ -19,19 +19,23 @@ My day-to-day has become much stranger. He’s a pessimist because he has to be,
 
 In this work, a **ritual** is an obsessively repeated pattern. These patterns are short gestures or phrases, about 5" to 10" (just long enough to feel like one complete thought), where every change to timbre, pitch, dynamics, and body movement are repeated as identically as you can manage without injury.
 
-* It's appropriate for a pattern to stop abruptly, as if cut short.
+* It's appropriate for a pattern to stop abruptly, as if cut short. Some of your patterns may feel like poorly-looped GIFs, as in the examples below.
 * Your pattern does not necessarily need to include pitch.
 
-The pattern you choose should reflect your role somehow, and does not need to be the same from performance to performance. The examples below are not precise to your instrument.
+The pattern you choose should reflect your role somehow, and does not need to be the same from performance to performance. The examples below are not precise to your instrument, and are intended to help you consider physicality in addition to pitch.
 </div>
 
-<div class="ex-gif a"><h2>this is a placeholder gif</h2></div>
+<div class="ex-gif a"></div>
 <div class="ex-svg a">
-	<object type="image/svg+xml" data="assets/svg/ritual-1a.svg"></object>
+	<h3>example 1</h3>
+	<p>stiff shoulder leads movement diagonally up and left; brow furrows before ascent; peak of the gesture occurs with a downbow + tremolo</p>
+	<!-- <object type="image/svg+xml" data="assets/svg/ritual-1a.svg"></object> -->
 </div>
-<div class="ex-gif b"><h2>this is a placeholder gif</h2></div>
+<div class="ex-gif b"></div>
 <div class="ex-svg b">
-	<object type="image/svg+xml" data="assets/svg/ritual-2a.svg"></object>
+	<h3>example 2</h3>
+	<p>instrument leans forward as head turns away (possibly about to sneeze?), both shoulders raise and follow head, bow drifts diagonally between bridge and fingerboard</p>
+	<!-- <object type="image/svg+xml" data="assets/svg/ritual-2a.svg"></object> -->
 </div>
 
 <div class="main-text" markdown="1">

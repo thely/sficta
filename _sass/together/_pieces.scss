@@ -52,6 +52,7 @@ hr {
 		}
 		.roles-block {
 			grid-column: 1 / span 6;
+			// grid-column: 8 / span 5;
 		}
 	}
 }
@@ -209,6 +210,7 @@ hr {
 }
 
 .arc-inner {
+	box-sizing: border-box;
 	display: flex;
 	justify-content: space-between;
 	padding: 0.7em 0.5em;
@@ -230,7 +232,7 @@ hr {
 }
 
 .weep {
-	color: black !important;
+	// color: black !important;
 	// text-shadow: 0px 7px 7px #8e3a3a;
-	text-shadow: 0px 5px 7px #8e3a3a, 0px 9px 5px #aadddd8c;
+	// text-shadow: 0px 5px 7px #8e3a3a, 0px 9px 5px #aadddd8c;
 }
