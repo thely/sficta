@@ -1,0 +1,110 @@
+
+@media (max-width: 900px) {
+	.section-wrap .inner .main-text,
+	.section-wrap .inner .main-text.narrative,
+	#tarotPick, .cards { 
+		grid-column: 1 / span 12;
+	}
+
+	.section-wrap .inner .roles-block {
+		grid-column: 2 / span 11;
+	}
+
+	.side-cards {
+		grid-column: 7 / span 6;
+		margin-bottom: 1em;
+
+		.caption {
+			text-align: left;
+			margin-left: 0;
+		}
+	}
+
+	.ex-gif {
+		grid-column: 1 / span 4;
+	}
+
+	.ex-svg {
+		grid-column: 5 / 13;
+	}
+
+	.break-svg {
+		grid-column: 6 / 12;
+		margin-bottom: 1em;
+	}
+}
+
+@media (max-width: 450px) {
+	* {
+		font-size: 16px;
+	}
+
+	.section-wrap .inner {
+		grid-column-gap: 0px;
+	}
+
+	hr {
+		margin: 2em 3em;
+	}
+
+	.ex-gif {
+		grid-column: 1 / span 12;
+		margin-bottom: 1.5em;
+	}
+
+	.ex-svg {
+		grid-column: 2 / span 11;
+		margin-bottom: 1em;
+	}
+
+	.ex-svg.a { margin-top: 0; }
+}
+
+
+
+// .stop-block {
+// 	grid-column: 7 / span 4;
+// 	margin: 2em 0;
+// 	// margin-top: 0;
+
+// 	em {
+// 		color: var(--color2);
+// 		float: left;
+// 		font-size: 1.5em;
+// 		font-weight: bold;
+// 		margin: 0 1em 0em 0;
+// 		position: relative;
+
+// 		&::after {
+// 			// box-shadow: 0px 0px 38px -8px rgba(132, 21, 68, 0.44);
+// 			content: "";
+// 			display: block;
+// 			width: 9.3em;
+// 			height: 6.3em;
+// 			position: absolute;
+// 			top: -0.8em; left: -2em;
+// 			transform: rotate(45deg);
+// 		}
+// 	}
+
+// 	p:nth-of-type(2) {
+// 		margin-top: 3em;
+// 		text-align: right;
+// 	}
+// }
+
+// .continue-block {
+// 	grid-column: 8 / span 5;
+// 	margin-bottom: 1em;
+// 	text-align: right;
+
+// 	// span {
+// 	// 	display: block;
+// 	// 	text-align: right;
+// 	// }
+// }
+
+// .unison-svg {
+// 	grid-column: 3 / 11;
+// 	margin-top: 2em;
+// }

@@ -1,0 +1,53 @@
+.page-start {
+	// background-color: #668a92;
+	background: url(img/swords-render4.png),
+		radial-gradient(#668a92 45%, black);
+	// background-image: url(img/swords-render2a.png);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	margin: 0;
+	max-height: 100vh;
+	max-width: 100vw;
+	position: relative;
+
+	.wrapper { margin: 0; max-width: 100vw; }
+	.inner {
+		display: flex;
+		height: 100vh;
+	}
+}
+
+.hero-text-block {
+	margin-top: 0.2em;
+	width: 100%;
+}
+
+.big-title {
+	font-size: 5em;
+	font-family: var(--narrative-font);
+	line-height: 0.8;
+	text-transform: uppercase;
+	width: 25%;
+}
+
+.subtitle {
+	font-size: 90%;
+	letter-spacing: -0.5px;
+	margin-left: 0.2em;
+}
+
+@media (max-width: 800px) {
+	.page-start .inner {
+		align-items: flex-end;
+	}
+
+	.hero-text-block {
+		margin-bottom: 1em;
+		// width: 50%;
+	}
+
+	.big-title {
+		font-size: 4em;
+	}
+}

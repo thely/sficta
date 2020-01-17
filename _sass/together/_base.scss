@@ -1,0 +1,60 @@
+:root {
+	--max-width: 1000px;
+	--color1: #e8896b;
+	--color2: #dd59f0;
+
+	--main-font: "DM Sans";
+	--narrative-font: "DM Serif Display";
+	--roles-font: "Roboto";
+
+	--border-amt: 500px;
+	--border-color: #d4d4dd;
+	--border-color-2: #e4cfcf;
+
+	--roles-deco-scoot: 50px;
+	--roles-deco-color: rgb(244, 233, 174);
+
+	--narrative-block-color: #5e7f86;
+}
+
+* {
+	font-family: var(--main-font), sans-serif;
+	font-size: 18px;
+}
+
+h2 {
+	color: var(--narrative-block-color);
+	font-family: var(--narrative-font);
+	font-size: 280%;
+}
+
+hr {
+	margin: 3em 10em;			
+}
+
+.main-text h3 {
+	color: #bfbfbf;
+	float: left;
+	font-weight: bold;
+	margin-top: 1em; margin-left: -2.5em;
+	// position: absolute;
+	writing-mode: vertical-rl;
+}
+
+.main-text strong {
+	background-color: #fff394;
+	padding: 0.2em 0.3em;
+}
+
+.caption, .caption a {
+	font-family: var(--roles-font);
+	font-size: 0.75em;
+}
+
+@import
+	"blocks",
+	"layouts",
+	"media",
+	"sizing",
+	"page-hero"
+;

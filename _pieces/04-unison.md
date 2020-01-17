@@ -20,7 +20,6 @@ He calls me in the middle of an extremely busy day. He needs to. I sit outside, 
 Every player plays the same pitch, while being as different from each other in every way as they possibly can. This **unison** can and should include dynamics, duration, timbre, posture, behavior, etc.
 
 The Driver leads pitch changes, slowly, through one of the three cells below, selecting between them and repeating between them at will. The rate of change increases in speed over time. This section does not start out using rituals, but they get incorporated as it progresses.
-
 </div>
 
 <div class="together-svg">
@@ -36,6 +35,7 @@ The Driver leads pitch changes, slowly, through one of the three cells below, se
 </div>
 
 <div class="main-text" markdown="1">
+
 Ensemble members do not need to start perfectly on time with the Driver, and in most cases shouldn't.
 
 The **rituals** in this section should be brief every time they occur. Whatever pattern length you choose, aim to repeat your pattern about five times before returning to the unison. If the pitch changes while you're mid-ritual, play out your repeats before rejoining the new pitch. As these have a shorter lifespan, changes you make while **perfect**ing can be as drastic as you like.

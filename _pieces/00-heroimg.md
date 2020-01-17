@@ -8,8 +8,10 @@ written_for: Science Ficta
 ---
 
 <div class="big-img">
-	<h1 class="big-title">The Ten <br />of Swords</h1>
-	<p class="subtitle">by Becky Brown, for Science Ficta</p>
+	<div class="hero-text-block">
+		<h1 class="big-title">The Ten <br />of Swords</h1>
+		<p class="subtitle">by Becky Brown, for Science Ficta</p>
+	</div>
 	<!-- <h1 class="big-title title-reflect">The Ten <br />of Swords</h1> -->
 	<!-- <img src="assets/img/swords-render2a.png"> -->
 </div>

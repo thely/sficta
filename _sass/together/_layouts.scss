@@ -1,0 +1,57 @@
+
+.section-wrap {
+	margin: 4em 0;
+	overflow-x: hidden;
+
+	.wrapper {
+		// margin-left: 0;
+		// max-width: calc(var(--max-width) - (30px * 2));
+		// max-width: calc(100% - (30px * 2));
+		margin: 0 auto;
+		max-width: 1024px;
+	}
+
+	.inner {
+		display: grid;
+		grid-template-columns: repeat(12, minmax(0, 1fr));
+		grid-column-gap: 2em;
+		position: relative;
+	}
+}
+
+h2 {
+	grid-column: 1 / span 8;
+}
+.main-text,
+#tarotPick {
+	grid-column: 1 / span 7;
+}
+
+.side-cards,
+.break-svg {
+	grid-column: 9 / span 4;
+}
+
+.roles-block {
+	grid-column: 1 / span 6;
+}
+
+.ex-gif { grid-column: 1 / span 3; }
+.ex-svg { grid-column: 4 / 11; }
+
+.together-svg {
+	grid-column: 1 / span 12;
+}
+
+.main-text.narrative {
+	grid-column: 1 / span 9;
+}
+
+.cards {
+	grid-column: 8 / span 5;
+}
+
+//row only
+.side-cards {
+	grid-row: 2 / span 5;
+}

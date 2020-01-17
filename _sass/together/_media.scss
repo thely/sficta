@@ -7,7 +7,7 @@
 	background-blend-mode: hard-light;
 	background-color: var(--color1);
 	background-position: center;
-	grid-column: 1 / span 3;
+	// grid-column: 1 / span 3;
 
 	&.a {
 		// background-image: url(https://media.giphy.com/media/l41lPnM5LWvUdB6qQ/giphy.gif);
@@ -24,11 +24,6 @@
 	}
 }
 
-.ex-svg {
-	grid-column: 4 / 11;
-	// margin-top: 1.5em;
-}
-
 .ex-gif.a {
 	margin-top: 1em;
 }
@@ -42,19 +37,9 @@
 	font-size: 1.3em;
 }
 
-.break-svg {
-	grid-column: 9 / span 4;
-}
-
-.caption {
-	font-family: var(--roles-font);
-	font-size: 0.75em;
-}
-
 .together-svg {
-	grid-column: 1 / span 12;
+	// grid-column: 1 / span 12;
 	margin: 2em 0;
 	margin-top: 1em;
-
 }
 
