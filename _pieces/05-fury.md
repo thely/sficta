@@ -13,7 +13,7 @@ There is nothing good or just about being punished for having scars. I can see t
 
 </div>
 
-## Alone
+## Alone, 2'
 
 <div class="main-text" markdown="1">
 
@@ -29,10 +29,10 @@ Any member can initiate this particular ritual, apart from the Driver. <span cla
 
 ### progression
 
-<span class="time">8'00"</span>
+<span class="time">8'30"</span>
 The ensemble abruptly drops out of the **unison**, allowing the Driver turn its quiet part into the **solo**. The solo should stay at the same dynamic throughout, but stay incredibly tense.
 
-<span class="time">8'30"</span>
+<span class="time">9'00"</span>
 The rest of the ensemble starts incorporating inaudible collective **rituals**, about 10 repeats long, with 10" pauses before trying again.
 
 </div>

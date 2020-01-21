@@ -11,7 +11,7 @@ written_for: Science Ficta
 My day-to-day has become much stranger. He’s a pessimist because he has to be, but I live in both his best and worst futures. Some days I’m hopeful, because he’s grown so much that I have to believe he’ll make it through. Other days I see through his eyes–how dark it all seems. Once a week I have to spend the day forgetting what’s coming. We call most evenings.
 </div>
 
-## Rituals
+## Rituals, 3'
 
 <div class="main-text" markdown="1">
 
@@ -40,30 +40,55 @@ The pattern you choose should reflect your role somehow, and does not need to be
 
 <div class="main-text" markdown="1">
 
-Over time, you will need to **perfect** these rituals. You can either (a) perfect your pattern by emphasizing one element of it over successive repeats, or (b) keep adding extra steps to the beginning or end of your pattern. Adding emphasis can mean many things, such as: 
+Over time, you will need to **perfect** these rituals, to change some aspect of them through iterative improvements. In the quest for absolutes, you can either:
 
-* one note gets louder every time
-* an extraneous physical movement becomes more obvious
-* you leave more and more space after a certain note
-* a gesture that previously did not produce pitch now produces pitch
+* (a) emphasize one element of a single moment over successive repeats, or
+* (b) keep adding extra steps to the beginning or end of your pattern.
+
+(a) This added emphasis is made to one single moment of your pattern. Some examples:
+
+* your second note gets louder every time
+* the degree to which you lean left after your first three pitches becomes more exaggerated every repeat
+* the silence after your fifth note becomes longer every repeat
+* a bow stroke that previously did not touch any string gets closer and closer, eventually producing pitch
+
+The Platonic ideal of the moment or aspect you're attempting to perfect is up to you. Perhaps the B you played was meant to be an A; perhaps a loud stomp should have been a small shuffle. A moment's ideal form is also subject to change; once the B becomes an A, only then do you realize it ought to be a Bb.
+
+(b) Only one new thing should be added every repeat. You can choose an approximate number of extra steps to add to make this pattern truly "perfect," and switch back to (a) once you've repeated enough times to add that amount in. Or perhaps there is no total that ever feels satisfactory.
 
 Regardless of which form of perfect you choose, you might encounter some form of failure, through forgetting the order of events or running out of room to add more emphasis. <span class="weep">It is right to feel frustrated when you make this mistake.</span>
 
 ---
+
+</div>
+
+<!-- <div class="break-svg" markdown=1> -->
+<!-- </div> -->
+
+<div class="main-text" markdown=1>
+
 
 ### progression
 
 <span class="time">0'00"</span>
 Two players start separate but simultaneous **rituals**. Pitch should be in the low register for your instrument. While these players should start together, there is no reason for their patterns to be the same length. Patterns can fluctuate in and out of phase, or repeat perfectly in sync; it's up to the pair.
 
+</div>
+
+<div class="break-svg" markdown=1>
+<p class="caption">Remember, all time stamps are approximate. These numbers can and will fluctuate.</p>
+</div>
+
+<div class="main-text" markdown=1>
+
 <span class="time">0'45"</span>
 Once one member of the pair <span>hears some amount of change</span> in their partner's pattern, they should start to **perfect** their own.
 
 <span class="time">1'30"</span>
-When the members of the second pair <span>start to get nervous about elapsed time</span>, they should start in the same fashion as the first: start together, repeat together if desired, wait for change before changing.
+When the members of the second pair <span>start to get nervous about elapsed time</span>, they should wait ten more seconds before starting in the same fashion as the first pair. Start together, repeat together if desired, wait for change before perfecting.
 
 <span class="time">2'00"</span>
-The two pairs interact in small ways, even if just in response to each other. 
+The two pairs respond to each other through perfecting. Maintain your rituals, but use either method of perfecting to form a dialogue.
 
 </div>
 <!-- 

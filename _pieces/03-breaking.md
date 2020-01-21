@@ -12,7 +12,7 @@ He mentions that he’s planning on getting more in shape. He and his roommate a
 
 </div>
 
-## Breaking
+## Breaking, 3'
 
 <div class="main-text" markdown="1">
 
@@ -69,7 +69,7 @@ The pitch range of your ritual should expand to the full range of your instrumen
 <div class="arc-block">
 	<div class="arc-inner arc-gradient">
 		<p class="start">3'00"</p>
-		<p>5'00"</p>
+		<p>6'00"</p>
 	</div>
 	<div class="arc-inner arc-text">
 		<p class="start">less interruption<br />lower pitch<br /><em>mf</em></p>
@@ -77,8 +77,8 @@ The pitch range of your ritual should expand to the full range of your instrumen
 	</div>
 </div>
 
-<span class="time">4'45"</span>
-The Driver should start playing the first pitch of the pitch set of the next section. *Together* begins when the rest of the ensemble convenes on one pitch. Players should join this unison pitch one at a time.
+<span class="time">5'30"</span>
+The Driver should start playing the first pitch of the pitch set of the next section. *Together* begins when the rest of the ensemble convenes on one pitch. Players should join this unison pitch one at a time, as fits their role.
 
 </div>
 

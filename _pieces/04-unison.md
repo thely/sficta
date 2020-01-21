@@ -13,11 +13,11 @@ He calls me in the middle of an extremely busy day. He needs to. I sit outside, 
 
 <div class="main-text" markdown="1">
 
-## Together
+## Together, 2'30"
 
 ### definitions
 
-Every player plays the same pitch, while being as different from each other in every way as they possibly can. This **unison** can and should include dynamics, duration, timbre, posture, behavior, etc.
+Every player plays the same pitch, while being as different from each other in every way as they possibly can. This **unison** can and should include dynamics, duration, timbre, posture, behavior, rhythm, amount of silence, etc.
 
 The Driver leads pitch changes, slowly, through one of the three cells below, selecting between them and repeating between them at will. The rate of change increases in speed over time. This section does not start out using rituals, but they get incorporated as it progresses.
 </div>
@@ -38,29 +38,29 @@ The Driver leads pitch changes, slowly, through one of the three cells below, se
 
 Ensemble members do not need to start perfectly on time with the Driver, and in most cases shouldn't.
 
-The **rituals** in this section should be brief every time they occur. Whatever pattern length you choose, aim to repeat your pattern about five times before returning to the unison. If the pitch changes while you're mid-ritual, play out your repeats before rejoining the new pitch. As these have a shorter lifespan, changes you make while **perfect**ing can be as drastic as you like.
+The **rituals** in this section should be brief every time they occur, and don't need to relate to the ritual you were doing before. Whatever pattern length you choose, aim to repeat your pattern about five times before returning to the unison. The *only* added restriction is that any pitches must be the **unison** pitch you started on. If the pitch changes while you're mid-ritual, play out your repeats before rejoining the new pitch. As these have a shorter lifespan, changes you make while **perfect**ing can be as drastic as you like.
 
 ---
 
 ### progression
 
-<span class="time">5'00"</span>
+<span class="time">6'00"</span>
 Each pitch should start out lasting about 15" or so: slightly, awkwardly too long. Pitches can be transposed up or down an octave by non-Driver performers.
 
-<span class="time">6'00"</span>
-Pitch lengths shorten (about 10"), and **rituals** are incorporated. As pitch lengths get shorter, the Driver should get quieter, while the rest of the ensemble gets louder.
+<span class="time">7'00"</span>
+Pitch lengths should be around 8", and **rituals** are incorporated. As pitch lengths get shorter, the Driver should get quieter, while the rest of the ensemble gets louder.
 
-<span class="time">6'45"</span>
-Pitch lengths shorten to 5". The ensemble should barely be able to hear the Driver, if at all. During rituals, the ensemble should liberally attempt to **remember**, which should leave occasional gaps for the Driver to eke through.
+<span class="time">7'45"</span>
+Pitch lengths shorten to 2". The ensemble should barely be able to hear the Driver, if at all. During rituals, the ensemble should liberally attempt to **remember**, which should leave occasional gaps for the Driver to eke through.
 
 <div class="arc-block">
 	<div class="arc-inner arc-gradient">
-		<p class="start">5'00"</p>
-		<p>8'00"</p>
+		<p class="start">6'00"</p>
+		<p>8'30"</p>
 	</div>
 	<div class="arc-inner arc-text">
 		<p class="start">15"/pitch<br />no rituals<br />all <em>mf</em></p>
-		<p>5"/pitch<br />rituals w/remember<br />drv <em>ppp</em>, ens <em>fff</em></p>
+		<p>2"/pitch<br />rituals w/remember<br />drv <em>ppp</em>, ens <em>fff</em></p>
 	</div>
 </div>
 
