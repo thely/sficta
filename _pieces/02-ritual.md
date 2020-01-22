@@ -73,14 +73,6 @@ Regardless of which form of perfect you choose, you might encounter some form of
 <span class="time">0'00"</span>
 Two players start separate but simultaneous **rituals**. Pitch should be in the low register for your instrument. While these players should start together, there is no reason for their patterns to be the same length. Patterns can fluctuate in and out of phase, or repeat perfectly in sync; it's up to the pair.
 
-</div>
-
-<div class="break-svg" markdown=1>
-<p class="caption">Remember, all time stamps are approximate. These numbers can and will fluctuate.</p>
-</div>
-
-<div class="main-text" markdown=1>
-
 <span class="time">0'45"</span>
 Once one member of the pair <span>hears some amount of change</span> in their partner's pattern, they should start to **perfect** their own.
 
