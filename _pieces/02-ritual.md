@@ -60,14 +60,6 @@ Regardless of which form of perfect you choose, you might encounter some form of
 
 ---
 
-</div>
-
-<!-- <div class="break-svg" markdown=1> -->
-<!-- </div> -->
-
-<div class="main-text" markdown=1>
-
-
 ### progression
 
 <span class="time">0'00"</span>
