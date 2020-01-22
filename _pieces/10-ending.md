@@ -14,6 +14,7 @@ It's impossible to talk about, or at least impossible to talk about without bein
 ## Resolve, 1'30"
 
 <div class="main-text" markdown=1>
+
 ### definitions
 
 As this piece was written in the middle of the events it explores, it would be foolhardy or presumptuous to attempt to end it with any specific emotional tone. A negative result could lead to some unknown long-term success; a positive result could lead to long-term ennui. While the Driver should maintain the solo high in their range and very quiet, their internal experience is not one that should be prescribed.
