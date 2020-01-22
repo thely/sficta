@@ -13,7 +13,7 @@ It's impossible to talk about, or at least impossible to talk about without bein
 
 ## Resolve, 1'30"
 
-<div class="main-text" markdown=1>
+<div class="main-text" markdown="1">
 
 ### definitions
 
