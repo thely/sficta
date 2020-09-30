@@ -8,8 +8,8 @@ written_for: Science Ficta
 ---
 
 <div class="main-text narrative" markdown="1">
-
-There is nothing good or just about being punished for having scars. I can see them in his eyes when he’s wordlessly afraid I’ll leave. I’d claw my teeth out to make them understand. Sometimes he fails. I hold him closer anyway.
+<!-- 
+There is nothing good or just about being punished for having scars. I can see them in his eyes when he’s wordlessly afraid I’ll leave. I’d claw my teeth out to make them understand. Sometimes he fails. I hold him closer anyway. -->
 
 </div>
 

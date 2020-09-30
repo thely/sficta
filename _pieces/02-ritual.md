@@ -8,7 +8,7 @@ written_for: Science Ficta
 ---
 
 <div class="main-text narrative" markdown="1">
-My day-to-day has become much stranger. He’s a pessimist because he has to be, but I live in both his best and worst futures. Some days I’m hopeful, because he’s grown so much that I have to believe he’ll make it through. Other days I see through his eyes–how dark it all seems. Once a week I have to spend the day forgetting what’s coming. We call most evenings.
+<!-- My day-to-day has become much stranger. He’s a pessimist because he has to be, but I live in both his best and worst futures. Some days I’m hopeful, because he’s grown so much that I have to believe he’ll make it through. Other days I see through his eyes–how dark it all seems. Once a week I have to spend the day forgetting what’s coming. We call most evenings. -->
 </div>
 
 ## Rituals, 3'

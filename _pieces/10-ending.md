@@ -8,7 +8,7 @@ written_for: Science Ficta
 ---
 
 <div class="main-text narrative" markdown="1">
-It's impossible to talk about, or at least impossible to talk about without being judged. Everyone has opinions, but none of them have context, and I have no desire to exhaust myself with people who can't understand my decision. So it stays with me, and me alone.
+<!-- It's impossible to talk about, or at least impossible to talk about without being judged. Everyone has opinions, but none of them have context, and I have no desire to exhaust myself with people who can't understand my decision. So it stays with me, and me alone. -->
 </div>
 
 ## Resolve, 1'30"

@@ -8,7 +8,7 @@ written_for: Science Ficta
 ---
 
 <div class="main-text narrative" markdown="1">
-He mentions that he’s planning on getting more in shape. He and his roommate are going to practice boxing, he asks me to order him a jump rope. It’s a little odd, but it’s a good thing to be active. When I ask him why he’s doing this, I expect an easy answer. But it's not easy. Reminders are scattered everywhere.
+<!-- He mentions that he’s planning on getting more in shape. He and his roommate are going to practice boxing, he asks me to order him a jump rope. It’s a little odd, but it’s a good thing to be active. When I ask him why he’s doing this, I expect an easy answer. But it's not easy. Reminders are scattered everywhere. -->
 
 </div>
 

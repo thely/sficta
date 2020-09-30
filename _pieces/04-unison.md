@@ -8,7 +8,7 @@ written_for: Science Ficta
 ---
 
 <div class="main-text narrative" markdown="1">
-He calls me in the middle of an extremely busy day. He needs to. I sit outside, and as a hundred people pass by, he tells me the news. I instantly numb to the chatter and laughter of my surroundings. Though my stomach drops, I feel strangely focused. We both do. Even if nothing happens in the end, there isn’t time to waste anymore.
+<!-- He calls me in the middle of an extremely busy day. He needs to. I sit outside, and as a hundred people pass by, he tells me the news. I instantly numb to the chatter and laughter of my surroundings. Though my stomach drops, I feel strangely focused. We both do. Even if nothing happens in the end, there isn’t time to waste anymore. -->
 </div>
 
 <div class="main-text" markdown="1">
